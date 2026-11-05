@@ -1,0 +1,8 @@
+{
+  "outcome": "running",
+  "fix_type": "transient",
+  "resume_from": "codegen",
+  "message": "Resuming from codegen (transient)…",
+  "log": "projects/FlashGuideGauge/.resume-20261105-171132.log",
+  "attempted_at_epoch": 1793895093
+}
